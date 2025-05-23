@@ -1,0 +1,26 @@
+[
+  {
+    "id": 101,
+    "name": "Dell",
+    "foundedYear": 1984,
+    "headquarters": "Round Rock, Texas, USA",
+    "website": "https://www.dell.com",
+    "imageURL": "https://raw.githubusercontent.com/secci000/WOProjectJson/refs/heads/main/dellLogo.jpg"
+  },
+  {
+    "id": 102,
+    "name": "Apple",
+    "foundedYear": 1976,
+    "headquarters": "Cupertino, California, USA",
+    "website": "https://www.apple.com",
+    "imageURL": "https://raw.githubusercontent.com/secci000/WOProjectJson/refs/heads/main/appleLogo.png"
+  },
+  {
+    "id": 103,
+    "name": "Lenovo",
+    "foundedYear": 1984,
+    "headquarters": "Beijing, China",
+    "website": "https://www.lenovo.com",
+    "imageURL": "https://raw.githubusercontent.com/secci000/WOProjectJson/refs/heads/main/lenovoLogo.png"
+  }
+]

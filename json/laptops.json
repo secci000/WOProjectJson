@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "brand": "Dell",
+    "model": "XPS 15",
+    "price": 1899,
+    "isInProduction": true,
+    "productionStatus": "available",
+    "releaseDate": "2023-04",
+    "recommendedUsage": ["graphic design", "video editing", "software development"],
+    "imageURL": "https://raw.githubusercontent.com/secci000/WOProjectJson/refs/heads/main/dellXPS15.jpg",
+    "brandInfo": {
+      "id": 101,
+      "name": "Dell",
+      "foundedYear": 1984,
+      "headquarters": "Round Rock, Texas, USA",
+      "website": "https://www.dell.com",
+      "imageURL": "https://raw.githubusercontent.com/secci000/WOProjectJson/refs/heads/main/dellLogo.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "brand": "Dell",
+    "model": "XPS 13 Plus",
+    "price": 1599,
+    "isInProduction": true,
+    "productionStatus": "available",
+    "releaseDate": "2023-06",
+    "recommendedUsage": ["business", "home use", "light video editing"],
+    "imageURL": "https://raw.githubusercontent.com/secci000/WOProjectJson/refs/heads/main/dellXPS13Plus.jpg",
+    "brandInfo": {
+      "id": 101,
+      "name": "Dell",
+      "foundedYear": 1984,
+      "headquarters": "Round Rock, Texas, USA",
+      "website": "https://www.dell.com",
+      "imageURL": "https://raw.githubusercontent.com/secci000/WOProjectJson/refs/heads/main/dellLogo.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "brand": "Dell",
+    "model": "Inspiron 16 Plus",
+    "price": 1299,
+    "isInProduction": false,
+    "productionStatus": "discontinued",
+    "releaseDate": "2022-10",
+    "recommendedUsage": ["students", "home office", "light gaming"],
+    "imageURL": "https://raw.githubusercontent.com/secci000/WOProjectJson/refs/heads/main/dellInspiron16Plus.jpg",
+    "brandInfo": {
+      "id": 101,
+      "name": "Dell",
+      "foundedYear": 1984,
+      "headquarters": "Round Rock, Texas, USA",
+      "website": "https://www.dell.com",
+      "imageURL": "https://raw.githubusercontent.com/secci000/WOProjectJson/refs/heads/main/dellLogo.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "brand": "Dell",
+    "model": "Latitude 7430",
+    "price": 1699,
+    "isInProduction": true,
+    "productionStatus": "available",
+    "releaseDate": "2023-02",
+    "recommendedUsage": ["business", "corporate work", "software development"],
+    "imageURL": "https://raw.githubusercontent.com/secci000/WOProjectJson/refs/heads/main/dellLatitude7430.jpg",
+    "brandInfo": {
+      "id": 101,
+      "name": "Dell",
+      "foundedYear": 1984,
+      "headquarters": "Round Rock, Texas, USA",
+      "website": "https://www.dell.com"
+    }
+  },
+  {
+    "id": 5,
+    "brand": "Apple",
+    "model": "MacBook Air 13 (M2)",
+    "price": 1199,
+    "isInProduction": false,
+    "productionStatus": "discontinued",
+    "releaseDate": "2022-07",
+    "recommendedUsage": ["students", "casual users", "light graphic design"],
+    "imageURL": "https://raw.githubusercontent.com/secci000/WOProjectJson/refs/heads/main/appleMacBookAir13.jpg",
+    "brandInfo": {
+      "id": 102,
+      "name": "Apple",
+      "foundedYear": 1976,
+      "headquarters": "Cupertino, California, USA",
+      "website": "https://www.apple.com",
+      "imageURL": "https://raw.githubusercontent.com/secci000/WOProjectJson/refs/heads/main/appleLogo.jpg"
+    }
+  },
+  {
+    "id": 6,
+    "brand": "Apple",
+    "model": "MacBook Pro 14 (M3 Pro)",
+    "price": 1999,
+    "isInProduction": true,
+    "productionStatus": "available",
+    "releaseDate": "2023-10",
+    "recommendedUsage": ["graphic design", "video editing", "software development"],
+    "imageURL": "https://raw.githubusercontent.com/secci000/WOProjectJson/refs/heads/main/appleMacBookPro14.jpg",
+    "brandInfo": {
+      "id": 102,
+      "name": "Apple",
+      "foundedYear": 1976,
+      "headquarters": "Cupertino, California, USA",
+      "website": "https://www.apple.com",
+      "imageURL": "https://raw.githubusercontent.com/secci000/WOProjectJson/refs/heads/main/appleLogo.jpg"
+    }
+  },
+  {
+    "id": 7,
+    "brand": "Apple",
+    "model": "MacBook Pro 16 (M3 Max)",
+    "price": 3299,
+    "isInProduction": true,
+    "productionStatus": "available",
+    "releaseDate": "2023-10",
+    "recommendedUsage": ["machine learning", "3D rendering", "software development"],
+    "imageURL": "https://raw.githubusercontent.com/secci000/WOProjectJson/refs/heads/main/appleMacBookPro14.jpg",
+    "brandInfo": {
+      "id": 102,
+      "name": "Apple",
+      "foundedYear": 1976,
+      "headquarters": "Cupertino, California, USA",
+      "website": "https://www.apple.com",
+      "imageURL": "https://raw.githubusercontent.com/secci000/WOProjectJson/refs/heads/main/appleLogo.jpg"
+    }
+  },
+  {
+    "id": 8,
+    "brand": "Lenovo",
+    "model": "ThinkPad X1 Carbon (Gen 11)",
+    "price": 1799,
+    "isInProduction": true,
+    "productionStatus": "available",
+    "releaseDate": "2023-05",
+    "recommendedUsage": ["business", "corporate work", "software development"],
+    "imageURL": "https://raw.githubusercontent.com/secci000/WOProjectJson/refs/heads/main/lenovoThinkPadX1CarbonGen11.jpg",
+    "brandInfo": {
+      "id": 103,
+      "name": "Lenovo",
+      "foundedYear": 1984,
+      "headquarters": "Beijing, China",
+      "website": "https://www.lenovo.com",
+      "imageURL": "https://raw.githubusercontent.com/secci000/WOProjectJson/refs/heads/main/lenovoLogo.jpg"
+    }
+  },
+  {
+    "id": 9,
+    "brand": "Lenovo",
+    "model": "Legion 5 Pro (Gen 8)",
+    "price": 1599,
+    "isInProduction": true,
+    "productionStatus": "available",
+    "releaseDate": "2023-03",
+    "recommendedUsage": ["gaming", "video editing", "content creation"],
+    "imageURL": "https://raw.githubusercontent.com/secci000/WOProjectJson/refs/heads/main/lenovoLegion5ProGen8.jpg",
+    "brandInfo": {
+      "id": 103,
+      "name": "Lenovo",
+      "foundedYear": 1984,
+      "headquarters": "Beijing, China",
+      "website": "https://www.lenovo.com",
+      "imageURL": "https://raw.githubusercontent.com/secci000/WOProjectJson/refs/heads/main/lenovoLogo.jpg"
+    }
+  },
+  {
+    "id": 10,
+    "brand": "Lenovo",
+    "model": "Yoga 9i (Gen 8)",
+    "price": 1399,
+    "isInProduction": false,
+    "productionStatus": "discontinued",
+    "releaseDate": "2023-01",
+    "recommendedUsage": ["students", "home office", "casual creative work"],
+    "imageURL": "https://raw.githubusercontent.com/secci000/WOProjectJson/refs/heads/main/lenovoYoga9iGen8.jpg",
+    "brandInfo": {
+      "id": 103,
+      "name": "Lenovo",
+      "foundedYear": 1984,
+      "headquarters": "Beijing, China",
+      "website": "https://www.lenovo.com",
+      "imageURL": "https://raw.githubusercontent.com/secci000/WOProjectJson/refs/heads/main/lenovoLogo.jpg"
+    }
+  }
+]
